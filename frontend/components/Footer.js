@@ -10,7 +10,6 @@ export default class AppBar extends React.Component {
         <p>
           <a href="https://stellarterm.com/" target="_blank">StellarTerm</a><br />
           <a href="https://stellarchain.io/" target="_blank">StellarChain</a><br />
-          <a href="http://stellar.network/" target="_blank">Stellar.network</a>
         </p>
       </div>
       <div className="clear"></div>
